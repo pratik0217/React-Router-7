@@ -57,3 +57,22 @@ Final UI
 
 # Nested Navigation with React Router 
 <img width="803" height="286" alt="Screenshot 2025-08-02 005127" src="https://github.com/user-attachments/assets/67fbaf92-603a-442a-8c38-c67c5170f218" />
+
+- Which page have make nested navigation then create navigation
+  - ( Example - College page and also inside nested navigation ).
+- When college page declare app function inside of route this time college route not declare self close.
+- If make nested navigation in college page.
+
+Code College Page - 
+
+<img width="1052" height="371" alt="Screenshot 2025-08-02 014855" src="https://github.com/user-attachments/assets/b549b73c-8eb9-499b-9767-acfe6b2771c0" />
+
+- { Outlet } use when have Nested Navigation for Nested navigation child component show on Browser UI
+
+code App function -
+
+<img width="826" height="460" alt="Screenshot 2025-08-02 014821" src="https://github.com/user-attachments/assets/22119043-16b5-40c1-ac64-2bb1ab009efd" />
+
+Final UI - 
+
+<img width="1919" height="511" alt="Screenshot 2025-08-02 015557" src="https://github.com/user-attachments/assets/13d6c7ab-e112-452c-8c3d-25e2a6ff4c42" />
