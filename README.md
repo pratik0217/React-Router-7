@@ -40,3 +40,20 @@ Q). What is current version of React Router ?
 
 # Basic Routing
 <img width="789" height="412" alt="Screenshot 2025-08-01 195441" src="https://github.com/user-attachments/assets/baaa847e-5d35-4399-83a4-48b83d9c1738" />
+
+# Header with React Router
+<img width="799" height="276" alt="Screenshot 2025-08-01 205827" src="https://github.com/user-attachments/assets/2f0c4e36-271f-4a73-8626-706e90163489" />
+
+# 404 Page & Rediraction 
+<img width="793" height="298" alt="Screenshot 2025-08-01 232255" src="https://github.com/user-attachments/assets/24825438-9324-44e8-912e-ffd99089e8c6" />
+
+What is 404 Page ? 
+- 404 Page stand for Page not found.
+- If user get something URL(path) in page and user URL(path) not existed then create new 404 page for showing as error throw.
+
+Final UI 
+
+<img width="1919" height="1016" alt="Screenshot 2025-08-02 010113" src="https://github.com/user-attachments/assets/2a9c52f9-a3c1-4a60-b8fe-d708545f346d" />
+
+# Nested Navigation with React Router 
+<img width="803" height="286" alt="Screenshot 2025-08-02 005127" src="https://github.com/user-attachments/assets/67fbaf92-603a-442a-8c38-c67c5170f218" />
