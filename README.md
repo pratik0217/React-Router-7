@@ -76,3 +76,26 @@ code App function -
 Final UI - 
 
 <img width="1919" height="511" alt="Screenshot 2025-08-02 015557" src="https://github.com/user-attachments/assets/13d6c7ab-e112-452c-8c3d-25e2a6ff4c42" />
+
+# Layout and Index Route in React
+<img width="806" height="301" alt="Screenshot 2025-08-02 020205" src="https://github.com/user-attachments/assets/7b419abc-48c6-4071-b576-ed55c9ab7120" />
+
+What is Layout route
+- When you want to be all page have navbar showing on UI but ( ex- college page not have navbar show ) then used layout routes.
+
+<img width="615" height="232" alt="Screenshot 2025-08-02 133929" src="https://github.com/user-attachments/assets/75b2744a-bc02-4df5-8411-48b85ae9e178" />
+
+- Showing child component of nested navigation then use {Outlet}.
+
+<img width="842" height="486" alt="Screenshot 2025-08-02 143630" src="https://github.com/user-attachments/assets/540e6bda-61f7-4627-8940-bc1aa9e7a543" />
+
+- { index } use for something page have default show in UI.
+
+<img width="750" height="200" alt="Screenshot 2025-08-02 143823" src="https://github.com/user-attachments/assets/6010b192-d1d5-40b6-9270-9e16d671c777" />
+
+# Route Prefixes 
+Step 1 - App function.
+<img width="642" height="110" alt="Screenshot 2025-08-02 144027" src="https://github.com/user-attachments/assets/a0b98c6f-4aab-4062-86a5-9b749f6fb5d7" />
+
+Step 2 - Navbar component.
+<img width="788" height="38" alt="Screenshot 2025-08-02 143959" src="https://github.com/user-attachments/assets/94bd6a20-7222-4e1e-b04d-6faf69c9cb39" />
