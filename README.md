@@ -116,3 +116,17 @@ Interview Question
 Note : this chapter does't properly learn If in future want to be learn optional segment again then goto be {code step by step chapter : Optional Segment}
 
 Chapter Link : https://www.youtube.com/watch?v=OmvoQ9Y3vv8&list=PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu&index=66
+
+# React Router NavLink & Active class - 
+What is NavLink 
+- Navigation Link
+- Navlink is one page to move another page then use NavLink.
+
+Difference between NavLink & Link 
+- When use navigation on the page then use Navlink and also Navlink return the active class.
+- Link not have active class.
+
+Interview Question 
+- What is difference between Navlink & Link ?
+- How to change(Apply) custom active class ?
+
