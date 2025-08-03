@@ -109,3 +109,10 @@ What is dynamic routes ?
 Interview Question 
 - What is useParams ?
 - Why use params in react component ?
+
+# Optional Segment
+<img width="728" height="252" alt="Screenshot 2025-08-03 125541" src="https://github.com/user-attachments/assets/ced79a20-2e43-4188-9350-a23328784d67" />
+
+Note : this chapter does't properly learn If in future want to be learn optional segment again then goto be {code step by step chapter : Optional Segment}
+
+Chapter Link : https://www.youtube.com/watch?v=OmvoQ9Y3vv8&list=PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu&index=66
