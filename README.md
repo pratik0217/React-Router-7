@@ -99,3 +99,13 @@ Step 1 - App function.
 
 Step 2 - Navbar component.
 <img width="788" height="38" alt="Screenshot 2025-08-02 143959" src="https://github.com/user-attachments/assets/94bd6a20-7222-4e1e-b04d-6faf69c9cb39" />
+
+# Dynamic Routes
+<img width="672" height="295" alt="Screenshot 2025-08-02 143217" src="https://github.com/user-attachments/assets/165f4c7d-b370-41a5-8b0f-92e1d332ef17" />
+What is dynamic routes ? 
+- When one page open to multiple routes then this data depend with route it called Dynamic Routes.
+
+
+Interview Question 
+- What is useParams ?
+- Why use params in react component ?
